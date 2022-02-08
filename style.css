@@ -1,0 +1,23 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.notes-container {
+  border: 1px solid #ddd;
+  background-color: lightblue;
+  padding: 15px;
+}
+
+.note-item {
+  border: 1px solid #ccc;
+  background-color: #eee;
+  padding: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+
+input {
+  display: block;
+  margin: 15px 0;
+  border: none;
+}
